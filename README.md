@@ -4,7 +4,7 @@ Atualmento trabalho com logística e busco oportunidade no ramo da programação
 
 Sou estudante de Programação, muito curioso e com muita vontade de evoluir minhas skills.
 
-🔭 Busco diariamento, conhecimento prático e focado no mercado.
+🔭 Busco diariamente, conhecimento prático e focado no mercado.
 
   <a href="https://www.linkedin.com/in/luiz-carlos-nogueira-silva-944a896b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
